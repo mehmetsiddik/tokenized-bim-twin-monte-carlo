@@ -30,7 +30,4 @@ The figures will be saved in the `figures/` directory.
 The numerical values, random seeds, labels, colors, hatch patterns, figure sizes, and export settings follow the final working notebook.  
 Earlier draft cells and duplicated trial blocks were removed so the repository stays compact and easy to review.
 
-## Suggested code availability statement
 
-The code used to reproduce the Monte Carlo figures and summary outputs is available in the project GitHub repository:  
-`[insert GitHub repository link here]`
